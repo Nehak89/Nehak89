@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Neha Kulkarni</h1>
 
-<p  >  </p>
+
 - 🌱 I’m currently learning **Java SpringBoot**
 
-- 💬 Ask me about **Web Development,Computer Networks,DBMS,Linux,**
+- 💬 Ask me about **Web Development,Computer Networks,DBMS,Linux**
 
 - 📫 Reach me at **kulneha93@gmail.com**
 
