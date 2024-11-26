@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.instagram.com/nehha_1707" target="blank"><img align="center" src="https://davidsuescunpelegay.github.io/instagram-logo/" alt="nehha_1707" height="40" width="40" /></a> &nbsp
 <a href="https://www.linkedin.com/in/neha-kulkarni-2843592b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehakulkarni" height="40" width="40" /></a> &nbsp
-<a href="https://www.hackerrank.com/profile/kulneha93" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png)" alt="kulneha93" height="40" width="40" /></a> &nbsp
+<a href="https://www.hackerrank.com/profile/kulneha93" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="kulneha93" height="40" width="40" /></a> &nbsp
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
